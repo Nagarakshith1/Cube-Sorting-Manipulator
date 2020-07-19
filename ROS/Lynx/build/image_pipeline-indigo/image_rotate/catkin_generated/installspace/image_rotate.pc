@@ -1,0 +1,8 @@
+prefix=/home/ms/Lynx/install
+
+Name: image_rotate
+Description: Description of image_rotate
+Version: 1.12.23
+Cflags: -I/home/ms/Lynx/install/include
+Libs: -L/home/ms/Lynx/install/lib 
+Requires: 

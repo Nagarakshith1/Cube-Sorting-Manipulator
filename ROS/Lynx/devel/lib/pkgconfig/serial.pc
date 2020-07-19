@@ -1,0 +1,8 @@
+prefix=/home/ms/Lynx/devel
+
+Name: serial
+Description: Description of serial
+Version: 1.2.1
+Cflags: -I/home/ms/Lynx/src/serial/include
+Libs: -L/home/ms/Lynx/devel/lib -lserial -lrt -lpthread
+Requires: 

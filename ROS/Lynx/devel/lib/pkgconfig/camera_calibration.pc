@@ -1,0 +1,8 @@
+prefix=/home/ms/Lynx/devel
+
+Name: camera_calibration
+Description: Description of camera_calibration
+Version: 1.12.23
+Cflags: 
+Libs: -L/home/ms/Lynx/devel/lib 
+Requires: 

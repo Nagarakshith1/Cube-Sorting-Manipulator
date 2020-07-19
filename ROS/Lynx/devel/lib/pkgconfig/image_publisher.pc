@@ -1,0 +1,8 @@
+prefix=/home/ms/Lynx/devel
+
+Name: image_publisher
+Description: Description of image_publisher
+Version: 1.12.23
+Cflags: -I/home/ms/Lynx/devel/include
+Libs: -L/home/ms/Lynx/devel/lib 
+Requires: 

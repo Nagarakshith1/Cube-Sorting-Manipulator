@@ -1,0 +1,8 @@
+prefix=/home/ms/Lynx/devel
+
+Name: usb_cam
+Description: Description of usb_cam
+Version: 0.3.6
+Cflags: -I/home/ms/Lynx/src/usb_cam-develop/include
+Libs: -L/home/ms/Lynx/devel/lib -lusb_cam
+Requires: 

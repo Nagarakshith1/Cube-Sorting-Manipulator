@@ -1,0 +1,8 @@
+prefix=/home/ms/Lynx/devel
+
+Name: lynx_control
+Description: Description of lynx_control
+Version: 0.0.0
+Cflags: -I/home/ms/Lynx/devel/include
+Libs: -L/home/ms/Lynx/devel/lib 
+Requires: 

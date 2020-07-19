@@ -1,0 +1,8 @@
+prefix=/home/ms/Lynx/devel
+
+Name: whycon
+Description: Description of whycon
+Version: 1.2.0
+Cflags: -I/home/ms/Lynx/devel/include -I/home/ms/Lynx/src/whycon/include
+Libs: -L/home/ms/Lynx/devel/lib -lwhycon
+Requires: cv_bridge roscpp sensor_msgs std_msgs message_runtime geometry_msgs

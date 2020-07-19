@@ -1,0 +1,2 @@
+aruco_ros_opencv:image_pipeline-indigo/camera_calibration:image_pipeline-indigo/depth_image_proc:image_pipeline-indigo/image_pipeline:image_pipeline-indigo/image_proc:image_pipeline-indigo/image_publisher:image_pipeline-indigo/image_rotate:image_pipeline-indigo/image_view:image_pipeline-indigo/stereo_image_proc:lynx_control:usb_cam-develop
+-DCATKIN_DEVEL_PREFIX=/home/ms/Lynx/devel -DCMAKE_INSTALL_PREFIX=/home/ms/Lynx/install -G Unix Makefiles

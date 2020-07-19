@@ -1,0 +1,8 @@
+prefix=/home/ms/Lynx/devel
+
+Name: ddynamic_reconfigure
+Description: Description of ddynamic_reconfigure
+Version: 0.0.7
+Cflags: -I/home/ms/Lynx/src/ddynamic_reconfigure-indigo-devel/include
+Libs: -L/home/ms/Lynx/devel/lib -lddynamic_reconfigure
+Requires: roscpp dynamic_reconfigure
