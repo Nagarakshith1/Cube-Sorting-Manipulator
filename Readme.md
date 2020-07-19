@@ -1,3 +1,9 @@
+# Cube Sorting Manipulator
+Refer the report for the full description of the project.
+
+[![Watch the video](https://img.youtube.com/vi/0IE7Sr5MsA4/maxresdefault.jpg)](https://youtu.be/0IE7Sr5MsA4)
+
+# Usage 
 Camera Calibration
 
 The camera parameters is obtained using the camera_calibration ROS package.
